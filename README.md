@@ -1,4 +1,8 @@
-[![MasterHead](joel-filipe-QwoNAhbmLLo-unsplash.jpg)](https://github.com/reed-mcdaniel-716)
+<style>
+body {
+  background-image: url('joel-filipe-QwoNAhbmLLo-unsplash.jpg');
+}
+</style>
 ### Hi there 👋
 #### I'm Reed McDaniel, a software engineer and NASM certified personal trainer
 
