@@ -3,6 +3,7 @@ body {
   background-image: url('joel-filipe-QwoNAhbmLLo-unsplash.jpg');
 }
 </style>
+<body>
 ### Hi there 👋
 #### I'm Reed McDaniel, a software engineer and NASM certified personal trainer
 
@@ -16,3 +17,4 @@ body {
 - 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/reed-mcdaniel)
 - 🙂 Pronouns: they/them 🏳️‍🌈
 - ⚡ Fun fact: I have 10+ years of boxing experience 🥊
+</body>
