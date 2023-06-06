@@ -1,5 +1,9 @@
-[![MasterHead]('./github_banner.png')](https://github.com/reed-mcdaniel-716/reed-mcdaniel-716)
-_picture: Photo by [Joel Filipe](https://unsplash.com/@joelfilip)_
+[![MasterHead](github_banner.png)](https://github.com/reed-mcdaniel-716/reed-mcdaniel-716)
+_photo by [Joel Filipe](https://unsplash.com/@joelfilip)_
+
+---
+
+# About Me
 - 🔭 I’m currently working on: designing my webapp using Figma
 - 🌱 I’m currently learning: full-stack development through Codecademy
 <!--
