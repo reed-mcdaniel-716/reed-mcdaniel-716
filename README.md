@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/reed-mcdaniel)
-- 🙂 Pronouns: they/them 🏳️‍🌈 🏳️‍⚧️
+- 🙂 Pronouns: they/them 🏳️‍🌈 :transgender_flag:
 - ⚡ Fun fact: I have 10+ years of boxing experience 🥊
