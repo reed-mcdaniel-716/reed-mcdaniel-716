@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Reeed McDaniel
+### Hi there 👋
+#### I'm Reed McDaniel, a software engineer and NASM certified personal trainer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
