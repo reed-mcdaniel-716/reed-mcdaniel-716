@@ -1,12 +1,5 @@
-<style>
-body {
-  background-image: url('joel-filipe-QwoNAhbmLLo-unsplash.jpg');
-}
-</style>
-<body>
-### Hi there 👋
-#### I'm Reed McDaniel, a software engineer and NASM certified personal trainer
-
+[![MasterHead]('./github_banner.png')](https://github.com/reed-mcdaniel-716/reed-mcdaniel-716)
+_picture: Photo by [Joel Filipe](https://unsplash.com/@joelfilip)_
 - 🔭 I’m currently working on: designing my webapp using Figma
 - 🌱 I’m currently learning: full-stack development through Codecademy
 <!--
@@ -17,4 +10,3 @@ body {
 - 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/reed-mcdaniel)
 - 🙂 Pronouns: they/them 🏳️‍🌈
 - ⚡ Fun fact: I have 10+ years of boxing experience 🥊
-</body>
