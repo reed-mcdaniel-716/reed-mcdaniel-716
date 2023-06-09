@@ -6,7 +6,7 @@ _photo by [Joel Filipe](https://unsplash.com/@joelfilip)_
 # About Me
 I am a software engineer and NASM certified personal trainer working to combine my passions for health and tech
 <!-- Focusing on building more inclusive communities around fitness, nutrition, and wellness -->
-- 🔭 I’m currently working on: designing my webapp using Figma
+- 🔭 I’m currently working on: creating my first design system in Figma
 - 🌱 I’m currently learning: full-stack development through Codecademy
 <!--
   - 👯 I’m looking to collaborate on ...
