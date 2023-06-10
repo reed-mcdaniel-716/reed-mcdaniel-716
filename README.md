@@ -21,3 +21,4 @@ I am a software engineer and NASM certified personal trainer working to combine 
 
 ## Portfolio Projects
 - [JAMMMING](https://github.com/reed-mcdaniel-716/jammming): A React app using the Genius Lyric API to build playlists
+- [Reed's Boxing Gym](https://cerulean-cactus-a5c733.netlify.app/): A mock static website hosted on Netlify ([created with React + Chakra UI](https://github.com/reed-mcdaniel-716/first-chakra-ui-app))
