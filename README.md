@@ -4,7 +4,7 @@ _photo by [Joel Filipe](https://unsplash.com/@joelfilip)_
 ---
 
 # About Me
-I am a software engineer and NASM certified personal trainer working to combine my passions for health and tech
+I am a software engineer working to combine my passions for health and tech
 <!-- Focusing on building more inclusive communities around fitness, nutrition, and wellness -->
 - 🔭 I’m currently working on: creating my first design system in Figma
 - 🌱 I’m currently learning: full-stack development through Codecademy
@@ -15,7 +15,7 @@ I am a software engineer and NASM certified personal trainer working to combine 
 -->
 - 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/reed-mcdaniel)
 - 🙂 Pronouns: they/them 🏳️‍🌈
-- ⚡ Fun fact: I have 10+ years of boxing experience 🥊
+- ⚡ Fun fact: I am a NASM certified personal trainer with 10+ years of boxing experience 🥊
 
 ---
 
