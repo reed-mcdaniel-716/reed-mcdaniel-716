@@ -24,4 +24,6 @@ I am a software engineer working to combine my passions for health and tech
 
 ## Portfolio Projects
 
-- [Reed's Boxing Gym](https://cerulean-cactus-a5c733.netlify.app/): A mock static website hosted on Netlify ([created with React + Chakra UI](https://github.com/reed-mcdaniel-716/first-chakra-ui-app))
+- [Activate Gym](https://radiant-stroopwafel-8d84a2.netlify.app/): An interactive and responsive web app for Activate Gym (not a real gym - [sourcecode here](https://github.com/reed-mcdaniel-716/Activate_Gym_Web))
+- [Reed's Boxing Gym](https://cerulean-cactus-a5c733.netlify.app/): A mock static website for a boxing gym ([source code](https://github.com/reed-mcdaniel-716/first-chakra-ui-app))
+- [Reed's Reads](https://elegant-melba-99379c.netlify.app/): A React app for finding books using the Google Books API ([source code](https://github.com/reed-mcdaniel-716/reeds-reads))
