@@ -10,7 +10,7 @@ I am a software engineer working to combine my passions for health and tech
 <!-- Focusing on building more inclusive communities around fitness, nutrition, and wellness -->
 
 - 🔭 I’m currently working on: building out my portfolio with web development projects
-- 🌱 I’m currently learning: full-stack development through Codecademy
+- 🌱 I’m currently learning: Ruby through [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 <!--
   - 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with ...
