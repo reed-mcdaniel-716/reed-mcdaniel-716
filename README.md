@@ -10,7 +10,7 @@ I am a software engineer working to combine my passions for health and tech
 <!-- Focusing on building more inclusive communities around fitness, nutrition, and wellness -->
 
 - 🔭 I’m currently working on: building out my portfolio with web development projects
-- 🌱 I’m currently learning: Strapi
+- 🌱 I’m currently learning: Next.js
 <!--
   - 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with ...
