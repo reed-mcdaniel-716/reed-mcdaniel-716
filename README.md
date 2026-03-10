@@ -5,7 +5,7 @@ _photo by [Joel Filipe](https://unsplash.com/@joelfilip)_
 
 # About Me
 
-I am a software engineer working to combine my passions for health and tech
+I am a software engineer working to combine my passions for tech, data, and the health and well-being of marginalized communities
 
 <!-- Focusing on building more inclusive communities around fitness, nutrition, and wellness -->
 
