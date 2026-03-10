@@ -9,7 +9,7 @@ I am a software engineer working to combine my passions for health and tech
 
 <!-- Focusing on building more inclusive communities around fitness, nutrition, and wellness -->
 
-- 🔭 I’m currently working on: building out my portfolio with web development projects
+- 🔭 I’m currently working on: building out my portfolio with projects
 - 🌱 I’m currently learning: Astro and React Native
 <!--
   - 👯 I’m looking to collaborate on ...
@@ -23,7 +23,15 @@ I am a software engineer working to combine my passions for health and tech
 ---
 
 ## Portfolio Projects
+
+### Web Development
 - **[reedmcdaniel.dev](https://reedmcdaniel.dev)**: My personal website ([source code](https://github.com/reed-mcdaniel-716/reedmcdaniel.dev))
 - **[Activate Gym](https://radiant-stroopwafel-8d84a2.netlify.app/)**: An interactive and responsive web app for Activate Gym (not a real gym - [source code](https://github.com/reed-mcdaniel-716/Activate_Gym_Web))
 - **Roll With The Punches E-commerce**: A full-stack PERN app for a mock e-commerce boxing gear site ([source code](https://github.com/reed-mcdaniel-716/roll_with_the_punches_ecommerce))
 - **Manifestations**: A full-stack PERN app for manifestations ([source code](https://github.com/reed-mcdaniel-716/manifestations))
+
+### Mobile Development
+__coming soon__
+
+### Data
+__coming soon__
