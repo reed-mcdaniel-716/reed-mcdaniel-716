@@ -17,7 +17,7 @@ I am a software engineer working to combine my passions for tech, data, and the 
   - 💬 Ask me about ...
 -->
 - 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/reed-mcdaniel)
-- 🙂 Pronouns: they/them 🏳️‍🌈
+- 🙂 Pronouns: they/them 🏳️‍🌈 🏳️‍⚧️
 - ⚡ Fun fact: I am a NASM certified personal trainer with 10+ years of boxing experience 🥊
 
 ---
